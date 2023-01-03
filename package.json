@@ -1,0 +1,20 @@
+{
+  "name": "react-from-scratch-template",
+  "version": "1.0.0",
+  "description": "React from Scratch web app template. Ready to use.",
+  "main": "index.jsx",
+  "scripts": {
+    "start": "webpack serve --mode development --open --hot",
+    "build": "webpack --mode production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/martspain/react-scratch-template.git"
+  },
+  "author": "Martin España",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/martspain/react-scratch-template/issues"
+  },
+  "homepage": "https://github.com/martspain/react-scratch-template#readme"
+}

@@ -1,0 +1,9 @@
+@import 'src/style/theme_colors';
+
+body{
+  background-color: $main-bg-color;
+  overflow: hidden;
+  // transition: 1s;
+  margin: 0vw;
+  padding: 0vw;
+}
